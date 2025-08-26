@@ -1,0 +1,10 @@
+env.php
+.env
+.env.local
+public/uploads/
+storage/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
